@@ -1,0 +1,38 @@
+{
+    "version": "0.0.3",
+    "name": "kozy-theme",
+    "publisher": "Artezio",
+    "icon": "images/Icon.png",
+    "displayName": "Kozy Theme",
+    "description": "Visual studio color coded theme extension that will make your editing window look cozy, really",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Artezi0/Kozy"
+    },
+    "keywords": [
+        "kozy",
+        "dark",
+        "space",
+        "coffee",
+        "solarized",
+        "dark theme",
+        "color theme",
+        "material-theme"
+    ],
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "uiTheme": "vs-dark",
+                "label": "Kozy Borderless",
+                "path": "./themes/kozy-color-theme.json"
+            }
+        ]
+    }
+}
