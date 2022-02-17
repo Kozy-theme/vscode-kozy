@@ -1,5 +1,5 @@
 {
-    "version": "0.0.4",
+    "version": "1.0.0",
     "name": "kozy-theme",
     "publisher": "Artezio",
     "icon": "images/Icon.png",
@@ -35,7 +35,7 @@
                 "label": "Kozy",
                 "path": ".themes/kozy-theme.json"
             },
-            {   
+            {
                 "uiTheme": "vs-dark",
                 "label": "Kozy-Darker",
                 "path": "./themes/kozy-darker-theme.json"
