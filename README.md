@@ -1,10 +1,11 @@
-# 🪴 **Kozy Theme** 
+# **Kozy Theme** 🪴 <br /> Light theme coming soon
 
-[![Version](https://img.shields.io/badge/VSCODE-V1.12%2B-yellow?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12) [![Author](https://img.shields.io/badge/made%20by-Artezio-yellow.svg?style=for-the-badge)](https://github.com/Artezi0/Kozy)
+[![Version](https://img.shields.io/badge/VSCODE-V1.12%2B-blueviolet?style=flat)](https://code.visualstudio.com/updates/v1_12) [![Author](https://img.shields.io/badge/made%20by-Artezio-blueviolet.svg?style=flat)](https://github.com/Artezi0/Kozy)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/Artezio.kozy-theme?color=blueviolet&label=DOWNLOADS)](https://marketplace.visualstudio.com/items?itemName=Artezio.kozy-theme)
 
-Visual Studio Code color coded theme extension that will make your editing window look cozy. Heavily inspired by the Solarized theme, it such an amazing theme.  
+Inspire by the Solarized theme, made this Visual Studio Code color theme extension that will make your editing window look cozy. For now there're just 2 subtheme, but im planning to make more.  
 
-**Note** that I haven't fully tested this extension on all available languages. But I will keep updating it if needed. <br>
+**Note** that I haven't fully tested this extension on all available languages. But I will keep updating it if needed. If threre is a problem please let me know.<br>
 
 <br />
 
@@ -18,34 +19,49 @@ Visual Studio Code color coded theme extension that will make your editing windo
 <br />
 
 # **Screenshot**
-![Screenshot 1](images/Screenshot%20(1).png)
-![Screenshot 2](images/Screenshot%20(2).png)
+### Kozy Theme
+![Screenshot](images/Screenshot%20(1).png)
+
+### Kozy Darker Theme
+![Screenshot](images/Screenshot%20(2).png)
 Display font using [JetBrains Nerd Font](https://www.nerdfonts.com/) and file icons using [City of Light Icons](https://github.com/Yummygum/city-lights-icons-vsc). 
 
 <br />
 
-``` json
-// On settings.json file
+# **Tweaks**
 
-{
-    "editor.lineHeight": 28,
-    "editor.fontSize": 16,
-    "editor.fontWeight": "500",
-    "editor.fontFamily": "JetBrainsMono Nerd Font Mono, Monoscape",
-    "editor.fontLigatures": true,
-    "workbench.iconTheme": "city-lights-icons-vsc",
-    "workbench.colorTheme": "Kozy Darker",
-    "workbench.colorCustomizations": {
+If you want to play around with new colors, use the setting `workbench.colorCustomizations` to customize the currently selected theme. For example, you can add this snippet in your "settings.json" file:
 
-        // If you want to make changes to the color yourself
-    }
+```json
+"workbench.colorCustomizations": {
+  "tab.activeBackground": "#ffff",
+  "activityBar.background": "#ffff",
+  "sideBar.background": "#ffff",
+  "tab.activeBorder": "#ffff",
+}
+```
+
+or use the setting `editor.tokenColorCustomizations`
+
+```json
+"editor.tokenColorCustomizations": {
+  "[One Dark Pro]": {
+    "textMateRules": [
+      {
+        "scope": ["source.python"],
+        "settings": {
+          "foreground": "#ffff"
+        }
+      }
+    ]
+  }
 }
 ```
 
 <br />
 
 # **Color Pallete**
-#### For Kozy and Kozy Darker
+#### For Kozy and Kozy Darker theme
 | Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Hex |
 | ---------- | ------------------------------------------------------------ | 
 | ![#2F3E47](https://via.placeholder.com/15/2F3E47/2F3E47?text=+) `#2F3E47` | Charcoal | 
