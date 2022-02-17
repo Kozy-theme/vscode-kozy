@@ -1,9 +1,9 @@
 {
 	"type": "dark",
 	"author": "Artezio",
-	"name": "Kozy-Borderless",
+	"name": "Kozy-Darker",
 	"maintainers": ["Artezio <mrezi2007@gmail.com>"],
-	"semanticClass": "Kozy-Borderless",
+	"semanticClass": "Kozy-Darker",
 	"colors": {
 		"activityBar.background": "#1A242A",
 		"sideBar.background": "#1A242A",

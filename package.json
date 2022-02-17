@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Artezi0/Kozy"
+        "url": "https://github.com/Artezi0/kozy-theme"
     },
     "keywords": [
         "kozy",
@@ -32,8 +32,13 @@
         "themes": [
             {
                 "uiTheme": "vs-dark",
-                "label": "Kozy-Borderless",
-                "path": "./themes/kozy-borderless.json"
+                "label": "Kozy",
+                "path": "./themes/kozy-color-theme.json"
+            },
+            {   
+                "uiTheme": "vs-dark",
+                "label": "Kozy-Darker",
+                "path": "./themes/kozy-darker-color-theme.json"
             }
         ]
     }
