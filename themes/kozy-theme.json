@@ -1,9 +1,9 @@
 {
 	"type": "dark",
 	"author": "Artezio",
-	"name": "Kozy-Darker",
+	"name": "Kozy",
 	"maintainers": ["Artezio <mrezi2007@gmail.com>"],
-	"semanticClass": "Kozy-Darker",
+	"semanticClass": "Kozy",
 	"colors": {
 		"activityBar.background": "#1A242A",
 		"sideBar.background": "#1A242A",

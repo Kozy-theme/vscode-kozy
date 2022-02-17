@@ -33,12 +33,12 @@
             {
                 "uiTheme": "vs-dark",
                 "label": "Kozy",
-                "path": "./themes/kozy-color-theme.json"
+                "path": "./themes/kozy-theme.json"
             },
             {   
                 "uiTheme": "vs-dark",
                 "label": "Kozy-Darker",
-                "path": "./themes/kozy-darker-color-theme.json"
+                "path": "./themes/kozy-color-theme.json"
             }
         ]
     }
