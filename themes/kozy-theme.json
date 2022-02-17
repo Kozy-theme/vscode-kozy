@@ -3,7 +3,6 @@
 	"author": "Artezio",
 	"name": "Kozy",
 	"maintainers": ["Artezio <mrezi2007@gmail.com>"],
-	"semanticClass": "Kozy",
 	"colors": {
 		"activityBar.background": "#1A242A",
 		"sideBar.background": "#1A242A",
