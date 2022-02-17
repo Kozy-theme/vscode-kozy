@@ -17,13 +17,14 @@ Visual studio color coded theme extension that will make your editing window loo
 
 <br />
 
+![Screenshot](images/Darker.png)
+
 # 🎨 **Colors**
 | Colors | HEX |
 |  ---   | --- |
 | Charcoal | #2F3E47 |
 | Gunmetal | #263138 |
 | Charleston Green | #1A242A |
-| Eerie Black | #182026 |
 | Ghost White | #EAEDF6 |
 | Silver Chalise | #B6B3AE | 
 | Maximum Blue  | #63A0B5  |
@@ -34,14 +35,12 @@ Visual studio color coded theme extension that will make your editing window loo
 | Light Salmon | #F09971  |
 | Fuzzy Wuzzy | #EE6D6D  |
 | Rose Madder | #D63B3B  |
-| Flame | #EC4E20  |
 | Mandarin | #F0743A  |
 | Honey Yellow | #E6A631  |
 | Metalic Gold | #C2A83E  |
 | Straw | #A5B034  |
 | Emerald  | #4CC977  |
 | Go Green | #39A960  |
-| Spanish Green | #309353  |
 
 **Made By Artezio** <br /> Find me on 
 [Instagram](https://instagram.com/artezio_),
