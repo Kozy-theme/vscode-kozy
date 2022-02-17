@@ -1,6 +1,6 @@
 # 🪴 **Kozy Theme** 
 
-[![vscode](https://img.shields.io/badge/VSCODE-V1.12%2B-yellow?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12) [![made in nigeria](https://img.shields.io/badge/made%20by-Artezio-yellow.svg?style=for-the-badge)](https://github.com/Artezi0/Kozy)
+[![Version](https://img.shields.io/badge/VSCODE-V1.12%2B-yellow?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12) [![Author](https://img.shields.io/badge/made%20by-Artezio-yellow.svg?style=for-the-badge)](https://github.com/Artezi0/Kozy)
 
 Visual studio color coded theme extension that will make your editing window look cozy. Heavily inspired by the Solarized theme, it such an amazing theme.  
 
