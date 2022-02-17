@@ -45,16 +45,14 @@ or use the setting `editor.tokenColorCustomizations`
 
 ```json
 "editor.tokenColorCustomizations": {
-  "[One Dark Pro]": {
-    "textMateRules": [
-      {
-        "scope": ["source.python"],
+    {
+        "name": "Comment",
+        "scope": "comment",
         "settings": {
-          "foreground": "#ffff"
+            "foreground": "#2F3E47",
+		    "fontStyle": "italic"
         }
-      }
-    ]
-  }
+    }
 }
 ```
 
