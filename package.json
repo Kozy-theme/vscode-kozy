@@ -1,53 +1,53 @@
 {
-    "name": "kozy-theme",
-    "publisher": "Artezio",
-    "author": "Arteio <mrezi2007@gmail.com> (http://twitter.com/Artezio0)",
-    "displayName": "Kozy Theme",
-    "version": "1.0.0",
-    "description": "Visual studio color coded theme extension that will make your editing window look cozy",
-    "galleryBanner": {
-      "color": "#1A242A",
-      "theme": "dark"
-    },
-    "icon": "images/Icon.png",
-    "keywords": [
-        "material theme",
-        "solarized",
-        "material",
-        "theme",
-        "kozy",
-        "dark"
-    ],
-    "repository": {
-      "url": "https://github.com/whizkydee/kozy-theme",
-      "type": "git"
-    },
-    "bugs": {
-      "url": "https://github.com/whizkydee/kozy-theme/issues"
-    },
-    "license": "MIT",
-    "engines": {
-      "vscode": "^1.12.0"
-    },
-    "categories": [
-      "Themes",
-      "Other"
-    ],
-    "contributes": {
-      "themes": [
-        {
-          "label": "Kozy Darker",
-          "uiTheme": "vs-dark",
-          "path": "./themes/kozy-darker.json"
-        },
-        {
-          "label": "Kozy",
-          "uiTheme": "vs-dark",
-          "path": "./themes/kozy-theme.json"
-        }
-      ]
-    },
-    "__metadata": {
-      "publisherDisplayName": "Artezio"
-    }
+  "name": "kozy-theme",
+  "publisher": "Artezio",
+  "author": "Arteio <mrezi2007@gmail.com> (http://twitter.com/Artezio0)",
+  "displayName": "Kozy Theme",
+  "version": "2.0.0",
+  "description": "Visual studio color coded theme extension that will make your editing window look cozy",
+  "galleryBanner": {
+    "color": "#1A242A",
+    "theme": "dark"
+  },
+  "icon": "images/Icon.png",
+  "keywords": [
+    "material theme",
+    "solarized",
+    "material",
+    "theme",
+    "kozy",
+    "dark"
+  ],
+  "repository": {
+    "url": "https://github.com/whizkydee/kozy-theme",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/whizkydee/kozy-theme/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kozy Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kozy-darker.json"
+      },
+      {
+        "label": "Kozy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kozy-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "publisherDisplayName": "Artezio"
   }
+}
