@@ -448,7 +448,7 @@
 		  "scope": "invalid.deprecated",
 		  "settings": {
 			"foreground": "#EAEDF6",
-			"background": "#d3423e"
+			"background": "#D63B3B"
 		  }
 		},
 		{
@@ -476,7 +476,7 @@
 		  "name": "Double-Slashed Comment",
 		  "scope": "comment.line.double-slash",
 		  "settings": {
-			"foreground": "#7A7FDB"
+			"foreground": "#2F3E47"
 		  }
 		},
 		{
@@ -728,7 +728,7 @@
 		  "name": "Punctuation Section Embedded",
 		  "scope": "punctuation.section.embedded",
 		  "settings": {
-			"foreground": "#d3423e"
+			"foreground": "#D63B3B"
 		  }
 		},
 		{
@@ -760,7 +760,7 @@
 		  "name": "Template Strings",
 		  "scope": "string.template meta.template.expression",
 		  "settings": {
-			"foreground": "#d3423e"
+			"foreground": "#D63B3B"
 		  }
 		},
 		{
@@ -840,7 +840,7 @@
 		  "name": "C# Namespaces",
 		  "scope": "entity.name.type.namespace.cs",
 		  "settings": {
-			"foreground": "#B2CCD6"
+			"foreground": "#A4A6CB"
 		  }
 		},
 		{
@@ -1123,8 +1123,7 @@
 		  "name": "JSON Property Names",
 		  "scope": "support.type.property-name.json",
 		  "settings": {
-			"foreground": "#A5B034",
-			// "fontStyle": "normal"
+			"foreground": "#A5B034"
 		  }
 		},
 		{
@@ -1227,7 +1226,7 @@
 		  "name": "Markup Links",
 		  "scope": ["markup.underline.link", "markup.underline.link.image"],
 		  "settings": {
-			"foreground": "#ff869a"
+			"foreground": "#EE6D6D"
 		  }
 		},
 		{
@@ -1360,7 +1359,7 @@
 			"meta.function-call.generic.python"
 		  ],
 		  "settings": {
-			"foreground": "#B2CCD6"
+			"foreground": "#A4A6CB"
 		  }
 		},
 		{
@@ -1517,7 +1516,7 @@
 		  "name": "handlebars variables",
 		  "scope": "variable.parameter.handlebars",
 		  "settings": {
-			"foreground": "#bec5d4"
+			"foreground": "#A4A6CB"
 		  }
 		},
 		{

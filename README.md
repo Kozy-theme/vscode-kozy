@@ -6,6 +6,11 @@ Visual studio color coded theme extension that will make your editing window loo
 
 **Note** that I haven't fully tested this extension on all available languages. But I will keep updating it if needed.
 
+## **Screenshot**
+![Code1](images/code.png)
+![Code2](images/code2.png)
+![Code3](images/code3.png)
+
 Cheers 🙌
 
 **Made By Artezio** <br />
