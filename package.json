@@ -44,6 +44,11 @@
         "label": "Kozy",
         "uiTheme": "vs-dark",
         "path": "./themes/kozy-theme.json"
+      },
+      {
+        "label": "Kozy Light",
+        "uiTheme": "vs",
+        "path": "./themes/kozy-color-theme.json"
       }
     ]
   },
