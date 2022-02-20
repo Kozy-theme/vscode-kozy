@@ -12,6 +12,7 @@
   "icon": "images/Icon.png",
   "keywords": [
     "material theme",
+    "color theme",
     "solarized",
     "material",
     "theme",
@@ -19,11 +20,11 @@
     "dark"
   ],
   "repository": {
-    "url": "https://github.com/Artezi0/kozy-theme",
+    "url": "https://github.com/Kozy-theme/vscode-cozy",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/Artezi0/kozy-theme/issues"
+    "url": "https://github.com/Kozy-theme/vscode-cozy/issues"
   },
   "license": "MIT",
   "engines": {
@@ -32,6 +33,10 @@
   "categories": [
     "Themes",
     "Other"
+  ],
+  "extensionKind": [
+    "ui",
+    "workspace"
   ],
   "contributes": {
     "themes": [

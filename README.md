@@ -1,9 +1,9 @@
 # **Kozy Theme** 🪴 <br /> Light theme is here!!
 
-[![Version](https://img.shields.io/badge/VSCODE-V1.12%2B-blueviolet?style=flat)](https://code.visualstudio.com/updates/v1_12) [![Author](https://img.shields.io/badge/MADE%20BY-ARTEZIO-blueviolet.svg?style=flat)](https://github.com/Artezi0/Kozy)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/Artezio.kozy-theme?color=blueviolet&label=DOWNLOADS)](https://marketplace.visualstudio.com/items?itemName=Artezio.kozy-theme)
+[![Version](https://img.shields.io/badge/VSCODE-V1.12%2B-normal?style=flat)](https://code.visualstudio.com/updates/v1_12) [![Author](https://vsmarketplacebadge.apphb.com/version/Artezio.kozy-theme.svg)](https://github.com/Artezi0/Kozy)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/Artezio.kozy-theme?color=normal&label=DOWNLOADS)](https://marketplace.visualstudio.com/items?itemName=Artezio.kozy-theme)
 
-Inspire by the Solarized theme, made this Visual Studio Code color theme extension that will make your editing window look cozy. For now there're just 2 subtheme, but im planning to make more.  
+Inspire by the Solarized theme, made this Visual Studio Code color theme extension that will make your editing window look cozy. I've made 3 variants right now and I'll keep expnding it
 
 **Note** that I haven't fully tested this extension on all available languages. But I will keep updating it if needed. If threre is a problem please let me know.<br>
 
