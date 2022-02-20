@@ -1,7 +1,7 @@
 # **Kozy Theme** 🪴 <br /> Light theme coming soon
 
-[![Version](https://img.shields.io/badge/VSCODE-V1.12%2B-blueviolet?style=flat)](https://code.visualstudio.com/updates/v1_12) [![Author](https://img.shields.io/badge/made%20by-Artezio-blueviolet.svg?style=flat)](https://github.com/Artezi0/Kozy)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/Artezio.kozy-theme?color=blueviolet&label=DOWNLOADS)](https://marketplace.visualstudio.com/items?itemName=Artezio.kozy-theme)
+[![Version](https://img.shields.io/badge/VSCODE-V1.12%2B-blueviolet?style=flat)](https://code.visualstudio.com/updates/v1_12) [![Author](https://img.shields.io/badge/MADE%20BY-ARTEZIO-blueviolet.svg?style=flat)](https://github.com/Artezi0/Kozy)
+[![Downloads](https://img.shields.io/badge/DOWNLOADS-18-blueviolet.svg?style=flat)](https://marketplace.visualstudio.com/items?itemName=Artezio.kozy-theme)
 
 Inspire by the Solarized theme, made this Visual Studio Code color theme extension that will make your editing window look cozy. For now there're just 2 subtheme, but im planning to make more.  
 
@@ -62,7 +62,7 @@ or use the setting `editor.tokenColorCustomizations`
 #### For Kozy and Kozy Darker theme
 | Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Hex |
 | ---------- | ------------------------------------------------------------ | 
-| ![#2F3E47](https://via.placeholder.com/15/2F3E47/2F3E47?text=+) `#2F3E47` | Charcoal | 
+| ![#2F3E47](https://via.placeholder.com/15/2F3E47/2F3E47?text=+) `#2F3E47` | Charcoal |
 | ![#263138](https://via.placeholder.com/15/263138/263138?text=+) `#263138` | Gunmetal |
 | ![#1A242A](https://via.placeholder.com/15/1A242A/1A242A?text=+) `#1A242A` | Charleston Gree |
 | ![#182026](https://via.placeholder.com/15/182026/182026?text=+) `#182026` | Eerie Black |
@@ -82,6 +82,32 @@ or use the setting `editor.tokenColorCustomizations`
 | ![#A5B034](https://via.placeholder.com/15/A5B034/A5B034?text=+) `#A5B034` | Straw |
 | ![#4CC977](https://via.placeholder.com/15/4CC977/4CC977?text=+) `#4CC977` | Emerald |
 | ![#39A960](https://via.placeholder.com/15/39A960/39A960?text=+) `#39A960` | Go Green |
+
+<br />
+
+#### For Kozy Lighter theme
+| Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Hex |
+| ---------- | ------------------------------------------------------------ | 
+| ![#FDFAE4](https://via.placeholder.com/15/FDFAE4/FDFAE4?text=+) `#FDFAE4` | Beige |
+| ![#F7EDD2](https://via.placeholder.com/15/F7EDD2/F7EDD2?text=+) `#F7EDD2` |Cornsilk |
+| ![#EAD9B9](https://via.placeholder.com/15/EAD9B9/EAD9B9?text=+) `#EAD9B9` | Dutch White |
+| ![#CBBA9A](https://via.placeholder.com/15/CBBA9A/CBBA9A?text=+) `#CBBA9A` | Khaki Web |
+| ![#5F6A79](https://via.placeholder.com/15/5F6A79/5F6A79?text=+) `#5F6A79` | Black Coral |
+| ![#394956](https://via.placeholder.com/15/394956/394956?text=+) `#394956` | Charcoal |
+| ![#B16286](https://via.placeholder.com/15/B16286/B16286?text=+) `#B16286` | Mulberry |
+| ![#F57D7D](https://via.placeholder.com/15/F57D7D/F57D7D?text=+) `#F57D7D` | Light Coral |
+| ![#F1563A](https://via.placeholder.com/15/F1563A/F1563A?text=+) `#F1563A` | Orange Soda |
+| ![#F0743A](https://via.placeholder.com/15/F0743A/F0743A?text=+) `#F0743A` | Mandarin |
+| ![#F9C74F](https://via.placeholder.com/15/F9C74F/F9C74F?text=+) `#F9C74F` | Maize Crayola |
+| ![#C2A83E](https://via.placeholder.com/15/C2A83E/C2A83E?text=+) `#C2A83E` | Metallic Gold |
+| ![#98971A](https://via.placeholder.com/15/98971A/98971A?text=+) `#98971A` | Citron |
+| ![#689D6A](https://via.placeholder.com/15/689D6A/689D6A?text=+) `#689D6A` | Russian Green |
+| ![#39A960](https://via.placeholder.com/15/39A960/39A960?text=+) `#39A960` | Go Green |
+| ![#4CC977](https://via.placeholder.com/15/4CC977/4CC977?text=+) `#4CC977` | Emerald |
+| ![#0B7974](https://via.placeholder.com/15/0B7974/0B7974?text=+) `#0B7974` | Pine Green |
+| ![#48B1AB](https://via.placeholder.com/15/48B1AB/48B1AB?text=+) `#48B1AB` |  Verdigris |
+| ![#55B6BB](https://via.placeholder.com/15/55B6BB/55B6BB?text=+) `#55B6BB` | Maximum Blue Crayola |
+| ![#7A7FDB](https://via.placeholder.com/15/7A7FDB/7A7FDB?text=+) `#7A7FDB` | Violet Blue Crayola |
 
 **Made By Artezio** <br /> Find me on 
 [Instagram](https://instagram.com/artezio_),
