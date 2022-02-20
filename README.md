@@ -1,4 +1,4 @@
-# **Kozy Theme** 🪴 <br /> Light theme coming soon
+# **Kozy Theme** 🪴 <br /> Light theme is here!!
 
 [![Version](https://img.shields.io/badge/VSCODE-V1.12%2B-blueviolet?style=flat)](https://code.visualstudio.com/updates/v1_12) [![Author](https://img.shields.io/badge/MADE%20BY-ARTEZIO-blueviolet.svg?style=flat)](https://github.com/Artezi0/Kozy)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/Artezio.kozy-theme?color=blueviolet&label=DOWNLOADS)](https://marketplace.visualstudio.com/items?itemName=Artezio.kozy-theme)
