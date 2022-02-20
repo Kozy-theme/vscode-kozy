@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/badge/VSCODE-V1.12%2B-normal?style=flat)](https://code.visualstudio.com/updates/v1_12) [![Author](https://vsmarketplacebadge.apphb.com/version/Artezio.kozy-theme.svg)](https://github.com/Artezi0/Kozy)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/Artezio.kozy-theme?color=normal&label=DOWNLOADS)](https://marketplace.visualstudio.com/items?itemName=Artezio.kozy-theme)
 
-Inspire by the Solarized theme, made this Visual Studio Code color theme extension that will make your editing window look cozy. I've made 3 variants right now and I'll keep expnding it
+Inspire by the Solarized theme, made this Visual Studio Code color theme extension that will make your editing window look cozy. I've made 3 variants right now and I'll keep expanding it
 
 **Note** that I haven't fully tested this extension on all available languages. But I will keep updating it if needed. If threre is a problem please let me know.<br>
 
@@ -78,12 +78,11 @@ or use the setting `editor.tokenColorCustomizations`
 | ![#A4A6CB](https://via.placeholder.com/15/A4A6CB/A4A6CB?text=+) `#A4A6CB` | Blue Bell |
 | ![#F09971](https://via.placeholder.com/15/F09971/F09971?text=+) `#F09971` | Light Salmon |
 | ![#EE6D6D](https://via.placeholder.com/15/EE6D6D/EE6D6D?text=+) `#EE6D6D` | Fuzzy Wuzzy |
-| ![#D63B3B](https://via.placeholder.com/15/D63B3B/D63B3B?text=+) `#D63B3B` | Rose Madder |
+| ![#E6422D](https://via.placeholder.com/15/E6422D/E6422D?text=+) `#E6422D` | Cinnabar |
 | ![#F0743A](https://via.placeholder.com/15/F0743A/F0743A?text=+) `#F0743A` | Mandarin |
 | ![#E6A631](https://via.placeholder.com/15/E6A631/E6A631?text=+) `#E6A631` | Honey Yellow |
 | ![#C2A83E](https://via.placeholder.com/15/C2A83E/C2A83E?text=+) `#C2A83E` | Metalic Gold |
 | ![#A5B034](https://via.placeholder.com/15/A5B034/A5B034?text=+) `#A5B034` | Straw |
-| ![#4CC977](https://via.placeholder.com/15/4CC977/4CC977?text=+) `#4CC977` | Emerald |
 | ![#39A960](https://via.placeholder.com/15/39A960/39A960?text=+) `#39A960` | Go Green |
 
 <br />
