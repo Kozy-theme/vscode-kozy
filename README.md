@@ -20,13 +20,13 @@ Inspire by the Solarized theme, made this Visual Studio Code color theme extensi
 
 # **Screenshot**
 ### Kozy Theme
-![Screenshot](images/kozy%20(1).svg)
+![Screenshot](images/Screenshot%20(1).png)
 
 ### Kozy Darker Theme
-![Screenshot](images/kozy%20(3).svg)
+![Screenshot](images/Screenshot%20(2).png)
 
 ### Kozy Light Theme
-![Screenshot](images/kozy%20(2).svg)
+![Screenshot](images/Screenshot%20(3).png)
 
 Display font using [JetBrains Nerd Font](https://www.nerdfonts.com/) and file icons using [City of Light Icons](https://github.com/Yummygum/city-lights-icons-vsc). 
 
