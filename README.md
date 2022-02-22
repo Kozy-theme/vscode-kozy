@@ -62,7 +62,7 @@ or use the setting `editor.tokenColorCustomizations`
 
 <br />
 
-# **Color Pallete**
+<!-- # **Color Pallete**
 #### For Kozy theme and Kozy darker theme
 | Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Hex |
 | ---------- | ------------------------------------------------------------ | 
@@ -110,7 +110,7 @@ or use the setting `editor.tokenColorCustomizations`
 | ![#0B7974](https://via.placeholder.com/15/0B7974/0B7974?text=+) `#0B7974` | Pine Green |
 | ![#48B1AB](https://via.placeholder.com/15/48B1AB/48B1AB?text=+) `#48B1AB` |  Verdigris |
 | ![#55B6BB](https://via.placeholder.com/15/55B6BB/55B6BB?text=+) `#55B6BB` | Maximum Blue Crayola |
-| ![#7A7FDB](https://via.placeholder.com/15/7A7FDB/7A7FDB?text=+) `#7A7FDB` | Violet Blue Crayola |
+| ![#7A7FDB](https://via.placeholder.com/15/7A7FDB/7A7FDB?text=+) `#7A7FDB` | Violet Blue Crayola | -->
 
 **Made By Artezio** <br /> Find me on 
 [Instagram](https://instagram.com/artezio_),

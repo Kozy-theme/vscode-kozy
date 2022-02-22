@@ -250,7 +250,7 @@
 
 		"minimap.background": "#00000000",
 		"minimap.errorHighlight": "#E6432D",
-		"minimap.warningHighlight": "#FFB834",
+		"minimap.warningHighlight": "#FFB834"
 	},
 	"tokenColors": [
 		{
@@ -293,7 +293,7 @@
 		  "name": "Number",
 		  "scope": [
 		    "constant.numeric", 
-			"constant.character.numeric",
+			"constant.character.numeric"
 		  ],
 		  "settings": {
 			"foreground": "#F0743A"
@@ -303,7 +303,7 @@
 			"name": "Keyword Other Unit",
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#FFB834",
+				"foreground": "#FFB834"
 			}
 		},
 		{
@@ -468,7 +468,7 @@
 		  "scope": "invalid",
 		  "settings": {
 			"background": "#EE6D6D",
-			"foreground": "#9CACB6" // CHANGE TO RGB
+			"foreground": "#9CACB6" 
 		  }
 		},
 		{
@@ -476,7 +476,7 @@
 		  "scope": "invalid.deprecated",
 		  "settings": {
 			"foreground": "#9CACB6",
-			"background": "#E6422D" // CHANGE TO RGB
+			"background": "#E6422D" 
 		  }
 		},
 		{
@@ -658,7 +658,7 @@
 		  "name": "Entity Name Function",
 		  "scope": "entity.name.function",
 		  "settings": {
-			"foreground": "#A4A6CB"
+			"foreground": "#F0743A"
 		  }
 		},
 		{
@@ -691,14 +691,14 @@
 		  "scope": "invalid.broken",
 		  "settings": {
 			"foreground": "#EAEDF6",
-			"background": "#F0743A" // CHANGE TO RGB
+			"background": "#F0743A" 
 		  }
 		},
 		{
 		  "name": "Invalid Unimplemented",
 		  "scope": "invalid.unimplemented",
 		  "settings": {
-			"background": "#A5B034", // CHANGE TO RGB
+			"background": "#A5B034",
 			"foreground": "#9CACB6"
 		  }
 		},
@@ -707,7 +707,7 @@
 		  "scope": "invalid.illegal",
 		  "settings": {
 			"foreground": "#9CACB6",
-			"background": "#EE6D6D" // CHANGE TO RGB
+			"background": "#EE6D6D" 
 		  }
 		},
 		{
@@ -1033,7 +1033,7 @@
 		  "name": "JavaScript Method Declaration e.g. `constructor`",
 		  "scope": "meta.method.declaration storage.type.js",
 		  "settings": {
-			"foreground": "#A4A6CB",
+			"foreground": "#A4A6CB"
 		  }
 		},
 		{
@@ -1157,14 +1157,14 @@
 		  "name": "JSON Property values (string)",
 		  "scope": "meta.structure.dictionary.value.json string.quoted.double",
 		  "settings": {
-			"foreground": "#63A0B5",
+			"foreground": "#63A0B5"
 		  }
 		},
 		{
 		  "name": "Strings in JSON values",
 		  "scope": "string.quoted.double.json punctuation.definition.string.json",
 		  "settings": {
-			"foreground": "#63A0B5",
+			"foreground": "#63A0B5"
 		  }
 		},
 		{
