@@ -4,11 +4,12 @@
   "author": "Arteio <mrezi2007@gmail.com> (http://twitter.com/Artezio0)",
   "displayName": "Kozy Theme",
   "version": "2.5.1",
-  "description": "Visual studio color coded theme extension that will make your editing window look cozy",
+  "description": "Visual studio code color theme extension that will make your editing window look cozy",
   "galleryBanner": {
     "color": "#1A242A",
     "theme": "dark"
   },
+  "homepage": "kozy.vercel.app",
   "icon": "images/Icon.png",
   "keywords": [
     "material theme",
@@ -41,19 +42,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Kozy Darker",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kozy-color-theme.json"
-      },
-      {
         "label": "Kozy",
         "uiTheme": "vs-dark",
         "path": "./themes/kozy-theme.json"
       },
       {
+        "label": "Kozy Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kozy-darker.json"
+      },
+      {
         "label": "Kozy Light",
         "uiTheme": "vs",
-        "path": "./themes/kozy-lighter.json"
+        "path": "./themes/kozy-light.json"
       }
     ]
   },

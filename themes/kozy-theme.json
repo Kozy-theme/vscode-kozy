@@ -19,7 +19,6 @@
 		"foreground": "#B6B3AE",
         "focusBorder": "#00000000",
         "progressBar.background": "#C2A83E",
-        "selection.background": "#C2A83E7A",
         "scrollbar.shadow": "#00000000",
 		
 		"activityBar.foreground": "#EAEDF6",
@@ -223,7 +222,7 @@
 		"editorMarkerNavigationWarning.background": "#FFB834",
 		"editorMarkerNavigationInfo.background": "#63A0B5",
 	
-		"editorSuggestWidget.background": "#1A242A",
+		"editorSuggestWidget.background": "#263138",
 		"editorSuggestWidget.border": "#00000000",
 		"editorSuggestWidget.foreground": "#B6B3AE",
 		"editorSuggestWidget.highlightForeground": "#C2A83E",
@@ -231,7 +230,7 @@
 		"editorSuggestWidget.selectedBackground": "#263138",
 	
 		"editorHoverWidget.foreground": "#B6B3AE",
-		"editorHoverWidget.background": "#1A242A",
+		"editorHoverWidget.background": "#263138",
 		"editorHoverWidget.border": "#00000000",
 	
 		"peekView.border": "#00000000",
@@ -326,13 +325,6 @@
 			}
 		  },
 		  {
-			"name": "Constant Character Escape",
-			"scope": "constant.character.escape",
-			"settings": {
-			  "foreground": "#F0743A"
-			}
-		  },
-		  {
 			"name": "RegExp String",
 			"scope": ["string.regexp", "string.regexp keyword.other"],
 			"settings": {
@@ -373,7 +365,7 @@
 			  "meta.class meta.method.declaration meta.var.expr storage.type.js"
 			],
 			"settings": {
-			  "foreground": "#7A7FDB"
+			  "foreground": "#69B1E4"
 			}
 		  },
 		  {
@@ -666,7 +658,8 @@
 			"name": "Entity Name Function",
 			"scope": "entity.name.function",
 			"settings": {
-			  "foreground": "#A4A6CB"
+			  "foreground": "#F0743A",
+			  "fontStyle": "bold"
 			}
 		  },
 		  {

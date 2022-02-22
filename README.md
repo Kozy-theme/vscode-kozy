@@ -20,13 +20,14 @@ Inspire by the Solarized theme, made this Visual Studio Code color theme extensi
 
 # **Screenshot**
 ### Kozy Theme
-![Screenshot](images/Screenshot%20(1).png)
+![Screenshot](images/kozy%20(1).svg)
 
 ### Kozy Darker Theme
-![Screenshot](images/Screenshot%20(2).png)
+![Screenshot](images/kozy%20(3).svg)
 
 ### Kozy Light Theme
-![Screenshot](images/Screenshot%20(3).png)
+![Screenshot](images/kozy%20(2).svg)
+
 Display font using [JetBrains Nerd Font](https://www.nerdfonts.com/) and file icons using [City of Light Icons](https://github.com/Yummygum/city-lights-icons-vsc). 
 
 <br />
@@ -62,7 +63,7 @@ or use the setting `editor.tokenColorCustomizations`
 <br />
 
 # **Color Pallete**
-#### For Kozy and Kozy Darker theme
+#### For Kozy theme and Kozy darker theme
 | Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Hex |
 | ---------- | ------------------------------------------------------------ | 
 | ![#2F3E47](https://via.placeholder.com/15/2F3E47/2F3E47?text=+) `#2F3E47` | Charcoal |
