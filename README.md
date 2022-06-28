@@ -1,8 +1,7 @@
 <!-- Cover -->
 
 <div align='center'> 
-<img src='./images/icon.png' alt='logo'>
-
+<img src='https://i.ibb.co/C7yWm5x/Icon.png' alt='logo'>
 <br>
 
 # Kozy Theme 🌱
@@ -16,6 +15,7 @@
 <div align='justify'>
 Inspired by the Solarized theme, made this Visual Studio Code color theme extension that will make your editing window look cozy. I've made 3 variants right now and I'll keep expanding it.
 
+<br>
 <br>
 
 **Note** that I haven't fully tested this extension on all available languages. But I will keep updating it if needed. If threre is a problem please let me know.
