@@ -1,31 +1,36 @@
-// Color pallete for the dark theme
-.base {
-    color: #2F3E47; // Charcoal
-    color: #263138; // Gunmetal
-    color: #1A242A; // Charleston Green
-    color: #182026; // Eerie Black
-}
+/* Dark Soft base color */
+$ds-base-a: #3C464C; // Lightest
+$ds-base-a: #2E3A42; // Lighter
+$ds-base-b: #1F2930; // Normal
+$ds-base-c: #182228; // Dark
+$ds-base-d: #131B1F; // Darker
 
-.texts {
-    color: #DBE4FF; // Lavender Web
-    color: #EAEDF6; // Ghost White
-    color: #B6B3AE; // Silver Chalice
-}
+/* Dark Soft utills color */
+$ds-utills-yellow: #C0AB59;
 
-.others {
-    color: #F09971; // Light Salmon
-    color: #EE6D6D; // Fuzzy Wuzzy
-    color: #E6422D; // Cinnabar
-    color: #F0743A; // Mandarin
-    color: #FFB834; // Honey Yellow
-    color: #C2A83E; // Metalic Gold
-    color: #A5B034; // Straw
-    color: #39A960; // Go Green
-    color: #63A0B5; // Maximum Blue 
-    color: #69B1E4; // Blue Jeans
-    color: #7A7FDB; // Violet Blue Crayola
-    color: #A4A6CB; // Blue Bell
-}
+/* Dark Soft syntax color */
+$ds-syntax-grey-a: #B6B3AE; 
+$ds-syntax-grey-b: #B6B3AE;
+$ds-syntax-grey-c: #B6B3AE;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 // Color pallete for light theme
